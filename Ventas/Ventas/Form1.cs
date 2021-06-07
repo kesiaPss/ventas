@@ -19,7 +19,7 @@ namespace Ventas
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola Mundo");
+            MessageBox.Show("Un sueño no se hace realidad por arte de magia, necesita sudor, determinación y trabajo duro ");
         }
     }
 }
