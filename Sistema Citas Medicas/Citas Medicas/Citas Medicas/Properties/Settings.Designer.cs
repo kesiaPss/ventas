@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Ventas.Properties
+namespace Citas_Medicas.Properties
 {
 
 
